@@ -1,6 +1,6 @@
 ### About Me
 
-Hi i'm nik a 3rd year computer science student at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations.
+Hi i'm nik, a 3rd year computer science student at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations.
 
 ### Currently Learning
 
