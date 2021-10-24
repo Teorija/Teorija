@@ -13,7 +13,7 @@ my current semester course load consists of
   - machine learning (Python)
   - intro to computer vision (MATLAB)
 
-### Currently Working On
+### Current Personal Projects
 
 After briefly using pygame for an aspect of a shool project I have begun to attempt to make a 2D pixel art game using the graphics library for fun. Using pygame and python I am trying to create a game framework that allows me to easily add new features to the game as well as allow me to more easily create future games.
 
