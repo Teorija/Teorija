@@ -5,11 +5,11 @@ Hi i'm nik a 3rd year computer science student at Ryerson University with an int
 ### Currently Learning
 
 my current semester course load consists of 
-  -database systems (SQL)
-  -computer security (C)
-  -intro to artificial intelligence (Prolog)
-  -machine learning (Python)
-  -intro to computer vision (MATLAB)
+  - database systems (SQL)
+  - computer security (C)
+  - intro to artificial intelligence (Prolog)
+  - machine learning (Python)
+  - intro to computer vision (MATLAB)
 
 ### Currently Working On
 
