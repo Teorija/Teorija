@@ -2,7 +2,7 @@
 
 Hi i'm Nik,
 
-A 3rd year computer science student minoring in math at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations.
+A 3rd year computer science student minoring in math at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms etc...).
 
 ### Currently Learning
 
