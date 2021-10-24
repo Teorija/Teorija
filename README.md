@@ -1,10 +1,10 @@
-### About Me
+## About Me
 
 Hi i'm Nik,
 
 A 3rd year computer science student minoring in math at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms etc...).
 
-### Currently Learning
+## Currently Learning
 
 my current semester course load consists of 
   - database systems (SQL)
@@ -13,7 +13,7 @@ my current semester course load consists of
   - machine learning (Python)
   - intro to computer vision (MATLAB)
 
-### Current Personal Projects
+## Current Personal Projects
 
   - #### Weapons N' Magic
 
@@ -24,9 +24,11 @@ my current semester course load consists of
       - creation mode
       - settings
 
-### How To Reach Me
+## How To Reach Me
 
 Email: nikolas.trivanovic@ryerson.ca
+
+##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teorija&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teorija&show_icons=true&theme=dark)
