@@ -21,6 +21,8 @@ After briefly using pygame for an aspect of a shool project I have begun to atte
 
 Email: nikolas.trivanovic@ryerson.ca
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teorija&show_icons=true&theme=dark)
+
 <!--
 **Teorija/Teorija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
