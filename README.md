@@ -15,7 +15,14 @@ my current semester course load consists of
 
 ### Current Personal Projects
 
-After a brief introduction to pygame for a shool project and a wave of nostalgia for old flash games I wanted to make one. For the game I decided on a 2D pixel art style. Using pygame and python I am trying to create a game framework that allows me to easily add new features to the game as well as allow me to more easily create future games.
+  - #### Weapons N' Magic
+
+    - After a brief introduction to pygame for a shool project and a wave of nostalgia for old flash games I wanted to make one. For the game I decided on a 2D pixel art style. Using pygame and python I am trying to create a game framework that allows me to easily add new features to the game as well as allow me to more easily create future games.
+    - intended game features
+      - singleplayer
+      - multiplayer
+      - creation mode
+      - settings
 
 ### How To Reach Me
 
