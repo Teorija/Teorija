@@ -28,6 +28,7 @@ my current semester course load consists of
 
 Email: nikolas.trivanovic@ryerson.ca
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teorija&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teorija&show_icons=true&theme=dark)
 
 <!--
