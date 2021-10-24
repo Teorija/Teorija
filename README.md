@@ -1,10 +1,10 @@
-## About Me
+## About Me :thought_balloon:
 
 Hey I'm Nik,
 
 A 3rd year computer science student minoring in math at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms etc...).
 
-## Currently Learning
+## Currently Learning :books:
 
 my current semester course load consists of 
   - database systems (SQL)
@@ -15,7 +15,7 @@ my current semester course load consists of
 
 ## Current Personal Projects
 
-  ### Weapons N' Magic
+  ### Weapons N' Magic :video_game:
 
   After a brief introduction to pygame for a shool project and a wave of nostalgia for old flash games I wanted to make one. For the game I decided on a 2D pixel art style. Using pygame and python I am trying to create a game framework that allows me to easily add new features to the game as well as allow me to more easily create future games.
   
@@ -26,7 +26,7 @@ my current semester course load consists of
     - creation mode
     - settings
 
-## How To Reach Me
+## How To Reach Me :mailbox:
 
 Email: nikolas.trivanovic@ryerson.ca
 
