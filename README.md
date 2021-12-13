@@ -7,11 +7,11 @@ A 3rd year computer science student minoring in math at Ryerson University with 
 ## Currently Learning :books:
 
 my current semester course load consists of 
-  - database systems (SQL)
-  - computer security (C)
-  - intro to artificial intelligence (Prolog)
-  - machine learning (Python)
-  - intro to computer vision (MATLAB)
+  - algorithms
+  - operating systems I
+  - human computer interaction
+  - introduction to datascience
+  - probability and statistics I
 
 ## Current Personal Projects
 
