@@ -13,19 +13,6 @@ my current semester course load consists of
   - introduction to datascience
   - probability and statistics I
 
-## Current Personal Projects
-
-  ### Weapons N' Magic :video_game:
-
-  After a brief introduction to pygame for a shool project and a wave of nostalgia for old flash games I wanted to make one. For the game I decided on a 2D pixel art style. Using pygame and python I am trying to create a game framework that allows me to easily add new features to the game as well as allow me to more easily create future games.
-  
-  Intended Game Features
-  
-    - singleplayer
-    - multiplayer
-    - creation mode
-    - settings
-
 ## How To Reach Me :mailbox:
 
 Email: nikolas.trivanovic@ryerson.ca
