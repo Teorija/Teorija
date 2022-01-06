@@ -12,6 +12,7 @@ my current semester course load consists of
   - human computer interaction
   - introduction to datascience
   - probability and statistics I
+  - -deep learning specialization (coursera)
 
 ## How To Reach Me :mailbox:
 
