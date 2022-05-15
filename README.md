@@ -7,11 +7,6 @@ A 3rd year computer science student minoring in math at Ryerson University with 
 ## Currently Learning :books:
 
 my current semester course load consists of 
-  - algorithms
-  - operating systems I
-  - graph theory
-  - introduction to datascience
-  - probability and statistics I
   - deep learning specialization (coursera)
 
 ## How To Reach Me :mailbox:
