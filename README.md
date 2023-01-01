@@ -2,12 +2,14 @@
 
 Hey I'm Nik,
 
-A 3rd year computer science student minoring in math at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms etc...).
+A 4th year computer science student at Toronto Metropolitan University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms, pixel art games, etc...).
 
 ## Currently Learning :books:
 
 my current semester course load consists of 
   - deep learning specialization (coursera)
+  - reinforcement learning
+  - computer networks
 
 ## How To Reach Me :mailbox:
 
