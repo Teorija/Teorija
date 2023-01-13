@@ -2,18 +2,29 @@
 
 Hey I'm Nik,
 
-A 4th year computer science student at Toronto Metropolitan University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms, pixel art games, etc...).
+A 4th year computer science student at Toronto Metropolitan University with an interest in robotics, machine learning, computer vision and computer graphics
 
-## Currently Learning :books:
+## Currently Learning 📚
 
 my current semester course load consists of 
   - deep learning specialization (coursera)
   - reinforcement learning
   - computer networks
 
-## How To Reach Me :mailbox:
+## Current Projects 🧪
 
-Email: nikolas.trivanovic@ryerson.ca
+pxEngine
+  - working on making a framework in python using pygame to more easily develop low resolution 2D pixel art games 
+
+pxMapMaker
+  - working on making a 2D pixel art map maker for pxEngine
+
+Weapons n' Magic
+  - working on a 2D pixel art game using pxEngine and pxMapMaker 
+
+## How To Reach Me 📫
+
+Email: nikolas.trivanovic@torontomu.ca
 
 ##
 
