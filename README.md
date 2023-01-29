@@ -22,6 +22,11 @@ pxMapMaker
 Weapons n' Magic
   - working on a 2D pixel art game using pxEngine and pxMapMaker 
 
+Toronto Metropolitan Robotics
+  - Camera Systems (Lead)
+  - 5 DOF Robotic Arm Systems
+  - Autonomous Systems
+
 ## How To Reach Me 📫
 
 Email: nikolas.trivanovic@torontomu.ca
